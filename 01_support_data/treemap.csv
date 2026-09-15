@@ -1,0 +1,348 @@
+group;taxon;species;biom_sum_mg;count
+Mollusca;Aplacophora;Chaetoderma nitidulum;109,6666667;1
+Mollusca;Aplacophora;Chaetoderma sp.;154,3333333;1
+Other;Ascidiacea;Ascidiacea gen. sp.;90;1
+Other;Ascidiacea;Styellidae gen. sp.;36;1
+Echinodermata;Asteroidea;Asteroidea juv.;8,666666667;1
+Echinodermata;Asteroidea;Ctenodiscus crispatus;7296;1
+Echinodermata;Asteroidea;Lophaster furcifer;220;1
+Echinodermata;Asteroidea;Pontaster tenuispinus;225,3333333;1
+Mollusca;Bivalvia;Arctinula greenlandica;306,3333333;1
+Mollusca;Bivalvia;Astarte crenata;14945,66667;1
+Mollusca;Bivalvia;Astarte elliptica;863,3333333;1
+Mollusca;Bivalvia;Bivalvia gen. sp.;54,66666667;1
+Mollusca;Bivalvia;Boreoacula maltzani;9,666666667;1
+Mollusca;Bivalvia;Ciliatocardium ciliatum;1622,333333;1
+Mollusca;Bivalvia;Cuspidaria arctica;16,33333333;1
+Mollusca;Bivalvia;Cuspidaria cuspidata;443;1
+Mollusca;Bivalvia;Cuspidaria glacialis;14;1
+Mollusca;Bivalvia;Cuspidaria sp.;405,6666667;1
+Mollusca;Bivalvia;Dacrydium vitreum;189;1
+Mollusca;Bivalvia;Ennucula tenuis;99,66666667;1
+Mollusca;Bivalvia;Hiatella arctica;672;1
+Mollusca;Bivalvia;Lima hyperborea;92;1
+Mollusca;Bivalvia;Liocyma fluctousa;3,666666667;1
+Mollusca;Bivalvia;Macoma balthica;83;1
+Mollusca;Bivalvia;Macoma calcarea;1013,333333;1
+Mollusca;Bivalvia;Macoma moesta;450,3333333;1
+Mollusca;Bivalvia;Mendicula ferruginosa;163;1
+Mollusca;Bivalvia;Musculus discors;528,6666667;1
+Mollusca;Bivalvia;Musculus glacialis;3,666666667;1
+Mollusca;Bivalvia;Nuculana pernula;6701,333333;1
+Mollusca;Bivalvia;Portlandia arctica;9065;1
+Mollusca;Bivalvia;Similipecten greenlandicus;142;1
+Mollusca;Bivalvia;Thracia myopsis;318,3333333;1
+Mollusca;Bivalvia;Thyasira equalis;96,66666667;1
+Mollusca;Bivalvia;Thyasira flexuosa;43;1
+Mollusca;Bivalvia;Thyasira sarsi;1079;1
+Mollusca;Bivalvia;Yoldiella fraterna;10,33333333;1
+Mollusca;Bivalvia;Yoldiella frigida;156,3333333;1
+Mollusca;Bivalvia;Yoldiella intermedia;1,666666667;1
+Mollusca;Bivalvia;Yoldiella lenticula;3953;1
+Mollusca;Bivalvia;Yoldiella lucida;178;1
+Mollusca;Bivalvia;Yoldiella nana;1001,3;1
+Mollusca;Bivalvia;Yoldiella persei ;0,333333333;1
+Mollusca;Bivalvia;Yoldiella solidula;81,66666667;1
+Bryozoa;Bryozoa;Alcyonidium gelatinosum;19,33333333;1
+Bryozoa;Bryozoa;Alcyonidium sp.;20;1
+Bryozoa;Bryozoa;Bryozoa gen.sp.;545;1
+Bryozoa;Bryozoa;Callopora craticula;0,333333333;1
+Bryozoa;Bryozoa;Cellepora sp. ;22,66666667;1
+Bryozoa;Bryozoa;Cheilopora praelucida;0,333333333;1
+Bryozoa;Bryozoa;Cheilostomata gen.sp. ;49,66666667;1
+Bryozoa;Bryozoa;Cribrilina annulata;4;1
+Bryozoa;Bryozoa;Crisia sp.;0,333333333;1
+Bryozoa;Bryozoa;Cyclostomata indet. (cf. Diplosolen obelia arctica);0,333333333;1
+Bryozoa;Bryozoa;Dendrobeania fruticosa quadridentata;10,33333333;1
+Bryozoa;Bryozoa;Escharoides jacksoni ;18,33333333;1
+Bryozoa;Bryozoa;Escharopsis sarsi ;121,6666667;1
+Bryozoa;Bryozoa;Eucratea loricata;0,333333333;1
+Bryozoa;Bryozoa;Flustra foliacea;165,3333333;1
+Bryozoa;Bryozoa;Leieschara coarctata;27,33333333;1
+Bryozoa;Bryozoa;Leieschara sp.;3,666666667;1
+Bryozoa;Bryozoa;Leieschara subgracilis ;177,6666667;1
+Bryozoa;Bryozoa;Porella plana;128;1
+Bryozoa;Bryozoa;Porella saccata;553,3333333;1
+Bryozoa;Bryozoa;Porella sp.;13,33333333;1
+Bryozoa;Bryozoa;Scrupocellaria sp.;0,333333333;1
+Bryozoa;Bryozoa;Tricellaria peachi ;0,333333333;1
+Bryozoa;Bryozoa;Tricellaria ternata;0,666666667;1
+Cnidaria;Cnidaria;Actiniaria gen.sp.;2342,333333;1
+Cnidaria;Cnidaria;Cerianthus Iloydii;880;1
+Cnidaria;Cnidaria;Edwardsia sp.;3,333333333;1
+Cnidaria;Cnidaria;Grammaria immersa;32,33333333;1
+Cnidaria;Cnidaria;Hydrozoa gen. sp.;0,333333333;1
+Cnidaria;Cnidaria;Hydrozoa gen.sp.4;0,333333333;1
+Cnidaria;Cnidaria;Hydrozoa indet.1 ;0,333333333;1
+Cnidaria;Cnidaria;Hydrozoa indet.2;0,333333333;1
+Cnidaria;Cnidaria;Hydrozoa indet.3 ;0,333333333;1
+Cnidaria;Cnidaria;Thuiaria articulata;0,666666667;1
+Cnidaria;Cnidaria;Tubulipora sp.;9;1
+Cnidaria;Cnidaria;Virgularia mirabilis;44,66666667;1
+Cnidaria;Cnidaria;Gersemia fruticosa;393,3333333;1
+Cnidaria;Cnidaria;Gersemia rubiformis;417,6666667;1
+Crustacea;Crustacea;Aceroides latipes;4,666666667;1
+Crustacea;Crustacea;Akanthophoreus gracilis;13,33333333;1
+Crustacea;Crustacea;Ampelisca latipes;1,666666667;1
+Crustacea;Crustacea;Ampelisca sp.;0,666666667;1
+Crustacea;Crustacea;Amphopoda gen.sp.;9,666666667;1
+Crustacea;Crustacea;Anonyx nugax;0,333333333;1
+Crustacea;Crustacea;Arrhis phyllonyx;21;1
+Crustacea;Crustacea;Balanus crenatus;6;1
+Crustacea;Crustacea;Bathymedon obtusifrons;11;1
+Crustacea;Crustacea;Brachydiastylis resima;4,666666667;1
+Crustacea;Crustacea;Byblis erythrops ;102,6666667;1
+Crustacea;Crustacea;Byblis longicornis;35;1
+Crustacea;Crustacea;Byblis sp.;1;1
+Crustacea;Crustacea;Caecognathia elongata;8;1
+Crustacea;Crustacea;Calanus finnmarchicus;2;1
+Crustacea;Crustacea;Calathura brachiata;50,66666667;1
+Crustacea;Crustacea;Campylaspis costata;10;1
+Crustacea;Crustacea;Campylaspis rubicunda;0,666666667;1
+Crustacea;Crustacea;Caprella dubia;2,333333333;1
+Crustacea;Crustacea;Centromedon sp.;3;1
+Crustacea;Crustacea;Cerapus sp.;7;1
+Crustacea;Crustacea;Chionocoetes opilio;4,333333333;1
+Crustacea;Crustacea;Corophium sp.;1;1
+Crustacea;Crustacea;Crustacea rest;0,666666667;1
+Crustacea;Crustacea;Cumacea gen. sp.;0,333333333;1
+Crustacea;Crustacea;Decapoda gen.sp. (larva);2,666666667;1
+Crustacea;Crustacea;Diastylis echinata;67,33333333;1
+Crustacea;Crustacea;Diastylis edwardsii;2;1
+Crustacea;Crustacea;Diastylis glabra;28,66666667;1
+Crustacea;Crustacea;Diastylis goodsiri;190,6666667;1
+Crustacea;Crustacea;Diastylis rathkei ;6,333333333;1
+Crustacea;Crustacea;Diastylis sp.;4;1
+Crustacea;Crustacea;Diastylis spinulosa;17,33333333;1
+Crustacea;Crustacea;Dyopedos sp,;0,666666667;1
+Crustacea;Crustacea;Ericthonius sp.;1;1
+Crustacea;Crustacea;Eudorella emarginata;66;1
+Crustacea;Crustacea;Gammarida gen.sp.;83;1
+Crustacea;Crustacea;Gammaropsis sp.;3;1
+Crustacea;Crustacea;Gitanopsis sp.;2;1
+Crustacea;Crustacea;Haploops laevis;96,66666667;1
+Crustacea;Crustacea;Haploops setosa;393;1
+Crustacea;Crustacea;Haploops similis;1,333333333;1
+Crustacea;Crustacea;Haploops sp. juv.;0,666666667;1
+Crustacea;Crustacea;Haploops tubicola;60,33333333;1
+Crustacea;Crustacea;Harpinia mucronata;12;1
+Crustacea;Crustacea;Harpiniopsis similis;1;1
+Crustacea;Crustacea;Hyas coarctus;0,666666667;1
+Crustacea;Crustacea;Ilyarachna hirticeps;0,666666667;1
+Crustacea;Crustacea;Lamprops fuscatus;1;1
+Crustacea;Crustacea;Leptostylis macrura;13,33333333;1
+Crustacea;Crustacea;Leucon nasica;38,66666667;1
+Crustacea;Crustacea;Lysianassidae gen.sp.;6;1
+Crustacea;Crustacea;Munna minuta;0,333333333;1
+Crustacea;Crustacea;Nototrpis sp.;63;1
+Crustacea;Crustacea;Oediceratidae (Monoculodes cf. borealis);0;1
+Crustacea;Crustacea;Onisimus caricus;49,33333333;1
+Crustacea;Crustacea;Paroediceros sp.;1,666666667;1
+Crustacea;Crustacea;Philomedes globosus;51,33333333;1
+Crustacea;Crustacea;Photis sp.;1;1
+Crustacea;Crustacea;Phoxocephalidae (Harpinia sp.);25,66666667;1
+Crustacea;Crustacea;Protomedeia fasciata;0,333333333;1
+Crustacea;Crustacea;Pseudosphyrapus anomalus;7;1
+Crustacea;Crustacea;Pseudotanais lilljeborgi;0,666666667;1
+Crustacea;Crustacea;Rhachotropis aculeata;264;1
+Crustacea;Crustacea;Sabinea septemcarinata;5,666666667;1
+Crustacea;Crustacea;Saduria sabini;680;1
+Crustacea;Crustacea;Stenothoidae gen.sp.;2,666666667;1
+Crustacea;Crustacea;Synidotea bicuspida;8,333333333;1
+Echinodermata;Echinoidea;Echinoidea juv.;7,666666667;1
+Echinodermata;Echinoidea;Strongylocentrotus droebachiensis;88,33333333;1
+Other;Entoprocta;Loxosomella sp.;0,333333333;1
+Mollusca;Gastropoda;Bathyarca glacialis;8,666666667;1
+Mollusca;Gastropoda;Boreocingula castanea;3,333333333;1
+Mollusca;Gastropoda;Buccinidae gen.sp.;31;1
+Mollusca;Gastropoda;Conidae gen. sp.;9,666666667;1
+Mollusca;Gastropoda;Criptonatica affinis;27;1
+Mollusca;Gastropoda;Cylichna alba;103,3333333;1
+Mollusca;Gastropoda;Cylichna occulta;40;1
+Mollusca;Gastropoda;Cylichna scalpta;6,666666667;1
+Mollusca;Gastropoda;Frigidoalvania sp.;29,33333333;1
+Mollusca;Gastropoda;Laona finmarchica;73,33333333;1
+Mollusca;Gastropoda;Lepeta caeca;640,3333333;1
+Mollusca;Gastropoda;Margarites groenlandicus;35,66666667;1
+Mollusca;Gastropoda;Margarites helicinus;4;1
+Mollusca;Gastropoda;Margarites olivaceus;15,66666667;1
+Mollusca;Gastropoda;Neptunea despecta;1,666666667;1
+Mollusca;Gastropoda;Onobe sp.;4,333333333;1
+Mollusca;Gastropoda;Philine sp.;210,6666667;1
+Mollusca;Gastropoda;Propebela nobilis;420,3333333;1
+Mollusca;Gastropoda;Propebela sp.;55,66666667;1
+Mollusca;Gastropoda;Retusa sp.;5,666666667;1
+Mollusca;Gastropoda;Rissoidae gen.sp.;5,333333333;1
+Mollusca;Gastropoda;Velutina sp.;33,66666667;1
+Echinodermata;Holothuroidea;Chiridota laevis;153,3333333;1
+Echinodermata;Holothuroidea;Eupyrgus scaber;7,333333333;1
+Echinodermata;Holothuroidea;Labidoplax buskii;104,6666667;1
+Echinodermata;Holothuroidea;Molpadia borealis;1544;1
+Echinodermata;Holothuroidea;Psolus fabricii;13068,66667;1
+Echinodermata;Holothuroidea;Psolus sp.;126;1
+Echinodermata;Holothuroidea;Trochoderma elegans;17;1
+Echinodermata;Holothuroidea;Myriotrochus rinkii;189;1
+Other;Nematoda;Enoplus sp.;5,333333333;1
+Other;Nematoda;Nematoda;1,333333333;1
+Other;Nemertea;Nemertea gen.sp.;1045,666667;1
+Echinodermata;Ophiuroidea;Gorgonocephalus arcticus;942,6666667;1
+Echinodermata;Ophiuroidea;Ophiacantha bidentata;1458;1
+Echinodermata;Ophiuroidea;Ophiocten sericeum;3493,666667;1
+Echinodermata;Ophiuroidea;Ophiopleura borealis;2137;1
+Echinodermata;Ophiuroidea;Ophiopus arcticus;113,6666667;1
+Echinodermata;Ophiuroidea;Ophiura robusta;320;1
+Echinodermata;Ophiuroidea;Ophiura sarsi;495,6666667;1
+Echinodermata;Ophiuroidea;Ophiuroidea gen.sp. juv.;27,66666667;1
+Echinodermata;Ophiuroidea;Stegophiura nodosa;11,33333333;1
+Other;Pantopoda;Nymphon sp.;44;1
+Other;Pantopoda;Pantopoda gen. sp.;0,333333333;1
+Other;Pantopoda;Pantopoda gen.sp.;2,333333333;1
+Polychaeta;Polychaeta;Aglaophamus malmgreni;1894,333333;1
+Polychaeta;Polychaeta;Aglaophamus rubellus (?);18,66666667;1
+Polychaeta;Polychaeta;Ampharete finnmarchica;167,6666667;1
+Polychaeta;Polychaeta;Ampharete sp.;205,6666667;1
+Polychaeta;Polychaeta;Ampharetidae gen. sp.;4,666666667;1
+Polychaeta;Polychaeta;Amphicteis gunneri;5,333333333;1
+Polychaeta;Polychaeta;Amphicteis ninonae;106;1
+Polychaeta;Polychaeta;Antinoella finnmarchica;0,333333333;1
+Polychaeta;Polychaeta;Apistobranchus tullbergi;2,333333333;1
+Polychaeta;Polychaeta;Aricidea nolani;16,33333333;1
+Polychaeta;Polychaeta;Aricidea quadrilobata;0,666666667;1
+Polychaeta;Polychaeta;Aricidea sp.;4,333333333;1
+Polychaeta;Polychaeta;Artacama proboscidea;47,33333333;1
+Polychaeta;Polychaeta;Axiothella cathenata;50,66666667;1
+Polychaeta;Polychaeta;Brada inhabilis;122;1
+Polychaeta;Polychaeta;Brada sp.;0,666666667;1
+Polychaeta;Polychaeta;Brada vilosa;48;1
+Polychaeta;Polychaeta;Branchiomma arcticum;321,3333333;1
+Polychaeta;Polychaeta;Bylgides annenkovae;1;1
+Polychaeta;Polychaeta;Bylgides sp.;1,333333333;1
+Polychaeta;Polychaeta;Capitella capitata;18;1
+Polychaeta;Polychaeta;Capitellidae gen. sp.;0,666666667;1
+Polychaeta;Polychaeta;Chaetozone setoza;531,3333333;1
+Polychaeta;Polychaeta;Chone infundibuliformes;105;1
+Polychaeta;Polychaeta;Cirratulidae gen.sp.;19,33333333;1
+Polychaeta;Polychaeta;Clymenura polaris;2;1
+Polychaeta;Polychaeta;Cossura longocirrata;1;1
+Polychaeta;Polychaeta;Cossura pygodactilata;17,33333333;1
+Polychaeta;Polychaeta;Diplocirrus longicetosus;2,666666667;1
+Polychaeta;Polychaeta;Diplocirrus sp.;11,66666667;1
+Polychaeta;Polychaeta;Dorvilleidae g. sp.;3,666666667;1
+Polychaeta;Polychaeta;Eteone barbata;2;1
+Polychaeta;Polychaeta;Eteone flava;103,6666667;1
+Polychaeta;Polychaeta;Eteone longa;5,666666667;1
+Polychaeta;Polychaeta;Eteone sp.;6,666666667;1
+Polychaeta;Polychaeta;Euchone analis;2,333333333;1
+Polychaeta;Polychaeta;Euchone papillosa;54,66666667;1
+Polychaeta;Polychaeta;Euchone sp.;3,333333333;1
+Polychaeta;Polychaeta;Eunoe nodosa;84,33333333;1
+Polychaeta;Polychaeta;Eunoe sp.;266;1
+Polychaeta;Polychaeta;Exogone sp.;0,666666667;1
+Polychaeta;Polychaeta;Galathowenia oculata;200,6666667;1
+Polychaeta;Polychaeta;Gattyana sp.;1,666666667;1
+Polychaeta;Polychaeta;Glycera capitata;72,33333333;1
+Polychaeta;Polychaeta;Glycera sp.;0,666666667;1
+Polychaeta;Polychaeta;Glypanostomum pallescens;17;1
+Polychaeta;Polychaeta;Hesionidae gen.sp.;1;1
+Polychaeta;Polychaeta;Hirudinea gen. sp.;0,333333333;1
+Polychaeta;Polychaeta;Jasmineira schaudinni;15;1
+Polychaeta;Polychaeta;Laonice cirrata;1007;1
+Polychaeta;Polychaeta;Laphania boecki;11,33333333;1
+Polychaeta;Polychaeta;Levinsenia gracilis;2;1
+Polychaeta;Polychaeta;Lumbrinereis tetraura;80,33333333;1
+Polychaeta;Polychaeta;Lysippe labiata;46;1
+Polychaeta;Polychaeta;Lysippe sexticirrata;0,666666667;1
+Polychaeta;Polychaeta;Maldane arctica;214;1
+Polychaeta;Polychaeta;Maldane sarsi;1229,333333;1
+Polychaeta;Polychaeta;Maldanidae gen.sp.;117;1
+Polychaeta;Polychaeta;Marenzellaria sp.;8,666666667;1
+Polychaeta;Polychaeta;Marenzelleria arctia;2;1
+Polychaeta;Polychaeta;Mellinae elisabethae;146,6666667;1
+Polychaeta;Polychaeta;Micronephthys minuta;93;1
+Polychaeta;Polychaeta;Minuspio cirrifera;47,33333333;1
+Polychaeta;Polychaeta;Myriochele heeri;188,3333333;1
+Polychaeta;Polychaeta;Nephtidae gen. sp.;39,66666667;1
+Polychaeta;Polychaeta;Nephtys caeca;14,33333333;1
+Polychaeta;Polychaeta;Nephtys ciliata;181,3333333;1
+Polychaeta;Polychaeta;Nephtys pente;81,33333333;1
+Polychaeta;Polychaeta;Nephtys sp.;68,66666667;1
+Polychaeta;Polychaeta;Nereis gracilis;1;1
+Polychaeta;Polychaeta;Nereis sp.;6,666666667;1
+Polychaeta;Polychaeta;Nereis zonata;30;1
+Polychaeta;Polychaeta;Nicolea sp.;25;1
+Polychaeta;Polychaeta;Nicomache lumbricalis;379;1
+Polychaeta;Polychaeta;Nicomache sp.;131,6666667;1
+Polychaeta;Polychaeta;Nothria hyperborea;1183;1
+Polychaeta;Polychaeta;Notomastus latericeus;24,33333333;1
+Polychaeta;Polychaeta;Notomastus sp.;2,666666667;1
+Polychaeta;Polychaeta;Ophelia limacina;0,666666667;1
+Polychaeta;Polychaeta;Ophelia sp.;22;1
+Polychaeta;Polychaeta;Ophelina abranchiata;20;1
+Polychaeta;Polychaeta;Ophelina acuminata;33,33333333;1
+Polychaeta;Polychaeta;Ophelina cylindricauda;32;1
+Polychaeta;Polychaeta;Owenia fusiformis;25,66666667;1
+Polychaeta;Polychaeta;Oweniidae gen.sp.;0,666666667;1
+Polychaeta;Polychaeta;Paradiopatra fjordica;3,333333333;1
+Polychaeta;Polychaeta;Paraonidae gen.sp.;20,33333333;1
+Polychaeta;Polychaeta;Paraonidae gen.sp.;10;1
+Polychaeta;Polychaeta;Paraonides nordica;4,666666667;1
+Polychaeta;Polychaeta;Pectinaria hyperborea;122;1
+Polychaeta;Polychaeta;Pherusa plumosa;64;1
+Polychaeta;Polychaeta;Pherusa sp.;4;1
+Polychaeta;Polychaeta;Pholoe longa;43;1
+Polychaeta;Polychaeta;Pholoe sp.;62,66666667;1
+Polychaeta;Polychaeta;Phyllodoce groenlandica;447,6666667;1
+Polychaeta;Polychaeta;Phyllodoce maculata;108,3333333;1
+Polychaeta;Polychaeta;Phyllodoce mucoza;9;1
+Polychaeta;Polychaeta;Polychaeta gen. sp. ;194;1
+Polychaeta;Polychaeta;Polycirrus medusa;0,333333333;1
+Polychaeta;Polychaeta;Polynoidae gen. sp. ;48;1
+Polychaeta;Polychaeta;Potamethus malmgreni;147;1
+Polychaeta;Polychaeta;Praxillella gracilis;637,6666667;1
+Polychaeta;Polychaeta;Praxillella praetermissa;86,66666667;1
+Polychaeta;Polychaeta;Praxillella sp.;1;1
+Polychaeta;Polychaeta;Praxillura longissima;210,3333333;1
+Polychaeta;Polychaeta;Proclea graffii;2;1
+Polychaeta;Polychaeta;Pseudopotamilla neglecta;52;1
+Polychaeta;Polychaeta;Rhodine gracilis;0,666666667;1
+Polychaeta;Polychaeta;Sabellidae gen. sp.;8,666666667;1
+Polychaeta;Polychaeta;Scalibregma inflatum;62,66666667;1
+Polychaeta;Polychaeta;Scalibregma sp.;59,33333333;1
+Polychaeta;Polychaeta;Scoletoma fragilis;2053,333333;1
+Polychaeta;Polychaeta;Scoloplos  sp.;7,333333333;1
+Polychaeta;Polychaeta;Scoloplos acutus;108,6666667;1
+Polychaeta;Polychaeta;Scoloplos gr. armiger;22;1
+Polychaeta;Polychaeta;Sphaerodoridae gen.sp.;1,666666667;1
+Polychaeta;Polychaeta;Sphaerodoropsis minuta;0,333333333;1
+Polychaeta;Polychaeta;Sphaerodoropsis sp.;0,666666667;1
+Polychaeta;Polychaeta;Sphaerodorum gracilis;8,333333333;1
+Polychaeta;Polychaeta;Spio armata;22,33333333;1
+Polychaeta;Polychaeta;Spio limicola;28,33333333;1
+Polychaeta;Polychaeta;Spio sp.;39,83333333;1
+Polychaeta;Polychaeta;Spiochaetopterus typicus;8196,333333;1
+Polychaeta;Polychaeta;Spionidae gen.sp.;112;1
+Polychaeta;Polychaeta;Spiophanes wigleyi (ex urceolata);53,66666667;1
+Polychaeta;Polychaeta;Syllinae gen.sp.;11,33333333;1
+Polychaeta;Polychaeta;Syllis fasciata;0,666666667;1
+Polychaeta;Polychaeta;Syllis sp.;0,666666667;1
+Polychaeta;Polychaeta;Terebellidae gen.sp.;17,33333333;1
+Polychaeta;Polychaeta;Terebellides sp.;160,3333333;1
+Polychaeta;Polychaeta;Terebellides stroemi;6,333333333;1
+Polychaeta;Polychaeta;Terebellomorpha;101,6666667;1
+Polychaeta;Polychaeta;Trochochaeta carica;3,333333333;1
+Other;Porifera;Porifera gen. sp.;89;1
+Other;Priapulida;Priapulida gen. sp.;44,66666667;1
+Other;Priapulida;Priapulus bicaudatus;707,6666667;1
+Other;Priapulida;Priapulus caudatus;1,666666667;1
+Other;Priapulida;Priapulus sp.;1,666666667;1
+Mollusca;Scaphopoda;Scaphopoda gen.sp.;54;1
+Mollusca;Scaphopoda;Siphonodentalium sp.;5;1
+Polychaeta;Sipunculida;Golfingia elgeris;57,33333333;1
+Polychaeta;Sipunculida;Golfingia margaritacea ;2161,666667;1
+Polychaeta;Sipunculida;Golfingia vulgaris;2;1
+Polychaeta;Sipunculida;Nephasoma lilljeborgi;0,666666667;1
+Polychaeta;Sipunculida;Nephasoma sp.;24,33333333;1
+Polychaeta;Sipunculida;Phascolion strombus;288;1
+Polychaeta;Sipunculida;Phascolosoma margaritaceum;984,6666667;1
+Polychaeta;Sipunculida;Phascolosoma sp.;108;1
+Polychaeta;Sipunculida;Sipuncula gen.sp.;144,6666667;1
